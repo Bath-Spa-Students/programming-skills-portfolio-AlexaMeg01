@@ -1,5 +1,5 @@
 # Invite some people to dinner.
-guests = ['guido van rossum', 'jack turner', 'lynn hill']
+guests = ['Loreen', 'Drew', 'Julie','Bea','Mashael']
 
 name = guests[0].title()
 print(name + ", please come to dinner.")
@@ -15,7 +15,7 @@ print("\nSorry, " + name + " can't make it to dinner.")
 
 # Jack can't make it! Let's invite Gary instead.
 del(guests[1])
-guests.insert(1, 'gary snyder')
+guests.insert(1, 'MJ')
 
 # Print the invitations again.
 name = guests[0].title()

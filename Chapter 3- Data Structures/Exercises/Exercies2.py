@@ -1,16 +1,16 @@
 names = ['Loreen', 'Drew', 'Julie','Bea','Mashael']
 
-msg = "Hello, " + names[0].title() + "!"
+msg = "Hello,how are u doing " + names[0].title() + "!"
 print(msg)
 
-msg = "Hello, " + names[1].title() + "!"
+msg = "Hello,how are u doing " + names[1].title() + "!"
 print(msg)
 
-msg = "Hello, " + names[2].title() + "!"
+msg = "Hello,how are u doing " + names[2].title() + "!"
 print(msg)
 
-msg = "Hello, " + names[3].title() + "!"
+msg = "Hello,how are u doing " + names[3].title() + "!"
 print(msg)
 
-msg = "Hello, " + names[4].title() + "!"
+msg = "Hello,how are u doing " + names[4].title() + "!"
 print(msg)
