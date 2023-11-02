@@ -74,8 +74,8 @@ name = guests[1].title()
 print(name + ", please come to dinner.")
 
 # Empty out the list.
-del(guests[2])
-del(guests[1])
+del(guests[0])
+del(guests[0])
 
 # Prove the list is empty.
 print(guests)
