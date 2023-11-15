@@ -9,3 +9,4 @@ while True:
     else:
         print("Your ticket is $25")
         
+        
